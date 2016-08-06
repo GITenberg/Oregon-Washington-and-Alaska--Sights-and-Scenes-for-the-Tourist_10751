@@ -1,0 +1,28 @@
+_repo: Oregon-Washington-and-Alaska--Sights-and-Scenes-for-the-Tourist_10751
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lomax, E. L. (Edward Lloyd)
+    alias: Lomax, Edward Lloyd
+    birthdate: 1852
+    deathdate: 1916
+    gutenberg_agent_id: '3663'
+    url: http://www.gutenberg.org/2009/agents/3663
+description: ''
+gutenberg_bookshelf: Transportation
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10751'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oregon -- Description and travel'
+- !lcsh 'Washington (State) -- Description and travel'
+- !lcc 'F850.5'
+- !lcsh 'Alaska -- Description and travel'
+- GITenberg
+title: Oregon, Washington and Alaska; Sights and Scenes for the Tourist
+url: http://www.gutenberg.org/ebooks/10751
