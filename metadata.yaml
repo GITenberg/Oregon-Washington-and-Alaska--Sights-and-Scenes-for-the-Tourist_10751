@@ -1,5 +1,8 @@
 _repo: Oregon-Washington-and-Alaska--Sights-and-Scenes-for-the-Tourist_10751
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lomax, E. L. (Edward Lloyd)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '3663'
     url: http://www.gutenberg.org/2009/agents/3663
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10751#Oregon-Washington-and-Alaska--Sights-and-Scenes-for-the-Tourist
 gutenberg_bookshelf: Transportation
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
